@@ -14,7 +14,10 @@ Most of what I build runs privately in my own stack. The essays are where I show
 
 - Essays: [moishekaufman.com](https://moishekaufman.com)
 - Things I've built: [moishekaufman.com/built](https://moishekaufman.com/built)
-- Every essay, narrated: [moishekaufman.com/listen](https://moishekaufman.com/listen)
+
+**Podcast**
+
+Every essay, narrated in my own voice (an AI clone I built myself). Listen on [Spotify](https://open.spotify.com/show/3ptpOEKsp1ZgZGy5qvniDB), [Apple Podcasts](https://podcasts.apple.com/podcast/id6815404308), or [everywhere else](https://moishekaufman.com/listen).
 
 **Elsewhere**
 
