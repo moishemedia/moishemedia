@@ -21,4 +21,4 @@ Every essay, narrated in my own voice (an AI clone I built myself). Listen on [S
 
 **Elsewhere**
 
-[X](https://x.com/moishemedia) · [LinkedIn](https://linkedin.com/in/moishekaufman)
+[X](https://x.com/moishemedia) · [LinkedIn](https://linkedin.com/in/moishekaufman) · [Instagram](https://instagram.com/moishemedia) · [Telegram](https://t.me/moishekaufman) · [YouTube](https://youtube.com/@moishemedia)
