@@ -4,7 +4,7 @@ Operator and systems builder. I run growth and operations for founders, and I bu
 
 **What I'm building**
 
-- **[tv-logout](https://github.com/moishemedia/tv-logout)** — signs stray YouTube sessions out of hotel and Airbnb TVs, weekly, entirely on your own Mac.
+- **tv-logout** — signs stray YouTube sessions out of hotel and Airbnb TVs, weekly, entirely on your own Mac.
 - **Hive** — a cockpit for running AI coding agents in parallel. [The thinking](https://moishekaufman.com/blog/the-agent-harness-is-the-product/).
 - **Engram** — persistent memory for AI, self-hosted. [The thinking](https://moishekaufman.com/blog/memory-is-infrastructure/).
 
